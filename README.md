@@ -11,17 +11,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/emp0ry/xeovo-amnezia-vpn-configs-fast-importer/releases/latest">
-    <img src="https://img.shields.io/github/v/release/emp0ry/xeovo-amnezia-vpn-configs-fast-importer?logo=github&color=5865F2" alt="Latest Release">
+  <a href="https://github.com/emp0ry/Xeovo-Amnezia-VPN-Configs-Fast-Importer/releases/latest">
+    <img src="https://img.shields.io/github/v/release/emp0ry/Xeovo-Amnezia-VPN-Configs-Fast-Importer?logo=github&color=5865F2" alt="Latest Release">
   </a>
-  <a href="https://img.shields.io/github/downloads/emp0ry/xeovo-amnezia-vpn-configs-fast-importer/total?color=ff6d00&label=Total%20Downloads">
-    <img src="https://img.shields.io/github/downloads/emp0ry/xeovo-amnezia-vpn-configs-fast-importer/total?color=ff6d00&label=Total%20Downloads" alt="Total Downloads">
+  <a href="https://img.shields.io/github/downloads/emp0ry/Xeovo-Amnezia-VPN-Configs-Fast-Importer/total?color=ff6d00&label=Total%20Downloads">
+    <img src="https://img.shields.io/github/downloads/emp0ry/Xeovo-Amnezia-VPN-Configs-Fast-Importer/total?color=ff6d00&label=Total%20Downloads" alt="Total Downloads">
   </a>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white" alt="Python Version">
   </a>
   <a href="LICENSE">
-    <img src="https://img.shields.io/github/license/emp0ry/xeovo-amnezia-vpn-configs-fast-importer?color=00C853" alt="License: MIT">
+    <img src="https://img.shields.io/github/license/emp0ry/Xeovo-Amnezia-VPN-Configs-Fast-Importer?color=00C853" alt="License: MIT">
   </a>
 </p>
 
