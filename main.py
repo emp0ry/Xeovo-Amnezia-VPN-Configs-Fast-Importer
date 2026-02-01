@@ -61,7 +61,7 @@ def create_amnezia_backup(conf_data, output_path, conf_path):
     locations = {
         'al': 'Albania, Tirana',
         'au': 'Australia, Sydney',
-        # 'br': 'Brazil, São Paulo',
+        'br': 'Brazil, São Paulo',
         'ca': 'Canada, Montreal',
         'ch': 'Switzerland, Zurich',
         'de': 'Germany, Falkenstein',
