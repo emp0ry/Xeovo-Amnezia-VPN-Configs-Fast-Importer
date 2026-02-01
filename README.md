@@ -10,6 +10,8 @@
   No more importing configs one by one - everything is generated automatically.
 </p>
 
+---
+
 ## 🚀 What This Does
 
 This script:
