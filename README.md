@@ -205,7 +205,7 @@ What happens:
 
 ---
 
-## 📋 Example Output
+## 📋 Example Print
 
 ```
 Parsed Configuration Data:
