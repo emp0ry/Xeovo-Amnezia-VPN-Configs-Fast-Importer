@@ -16,9 +16,7 @@ This script:
 - Generates a full **AmneziaVPN backup**
 - Creates multiple servers by replacing the endpoint with:
 ```
-
 <location_code>.gw.xeovo.com:<original_port>
-
 ```
 - Keeps:
 - same keys
@@ -28,9 +26,7 @@ This script:
 
 Output file:
 ```
-
 AmneziaVPN.backup
-
 ````
 
 Ready to import into:
