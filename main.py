@@ -186,3 +186,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Build example:
+# pyinstaller --icon=icon.ico --distpath ./ --workpath ./build --clean -F --noconsole -n "XeovoAmneziaVPNImporter" --add-data "icon.ico;." --upx-dir=upx main.py
